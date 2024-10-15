@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=nttrtin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-- 🔭 I’m currently working on [Web bán giày](https://github.com/nttrtin/nttrtin.git)
+- 🔭 I’m currently working on [CNPM-TH](https://github.com/nttrtin/nttrtin.git)
 - 🌱 I’m currently learning **React.js, Node.js, ASP.Net MVC**
 - 📫 How to reach me: **[tin3519508@gmail.com](mailto:tin3519508@gmail.com)**
 - ⚡ Fun fact: **I think I am the most handsome and funniest person in the world!**
