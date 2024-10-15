@@ -87,7 +87,9 @@
     <a href="https://ko-fi.com/nttrtin">
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
     </a>
-</p><br><br>
+</p>
+
+<br><br> <!-- Tạo khoảng cách giữa phần Support và GitHub Stats -->
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nttrtin&show_icons=true&locale=en" alt="GitHub Stats" />
