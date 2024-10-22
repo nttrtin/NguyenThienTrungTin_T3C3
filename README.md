@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [CNPM-TH](https://github.com/nttrtin/nttrtin.git)
 - 🌱 I’m currently learning **React.js, Node.js, ASP.Net MVC**
 - 📫 How to reach me: **[tin3519508@gmail.com](mailto:tin3519508@gmail.com)**
-- ⚡ Fun fact: **I think I am the most handsome and funniest person in the world!**
+
 
 ---
 
