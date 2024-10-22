@@ -12,7 +12,7 @@
 - NguyenThienTrungTin_Thứ 3_Ca3 MSSV: 22DH113761
 - 🔭 I’m currently working on [CNPM-TH](https://github.com/nttrtin/nttrtin.git)
 - 🌱 I’m currently learning **React.js, Node.js, ASP.Net MVC**
-- 📫 How to reach me: **[tin3519508@gmail.com](mailto:tin3519508@gmail.com)**
+- 📫 How to reach me: **[tin3519237@gmail.com](mailto:tin3519237@gmail.com)**
 
 
 ---
